@@ -1,0 +1,1 @@
+This is a simple project that I developed to showcase my talents and abilities to prospectus. In it there is a brief summary of myself, information about my education journey and expertise. Also, there is a list of projects that I have worked 
